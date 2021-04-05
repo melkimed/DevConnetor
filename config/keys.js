@@ -1,0 +1,1 @@
+export const mongoURL = "mongodb+srv://melki-medd:melkimed123@cluster0.s3nii.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
